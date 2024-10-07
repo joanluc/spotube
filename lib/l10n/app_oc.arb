@@ -31,7 +31,7 @@
   "description": "Descripcion",
   "public": "Public",
   "collaborative": "Collaborativa",
-  "search_locau_tracks": "Recercar pistas locaus...",
+  "search_local_tracks": "Recercar pistas locaus...",
   "play": "Lectura",
   "delete": "Suprimir",
   "none": "Aucun",
